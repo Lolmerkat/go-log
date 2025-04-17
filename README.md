@@ -10,6 +10,5 @@ A simple logging library for Go replacing [go/log](https://pkg.go.dev/log).
 > _DO NOT USE IN PRODUCTION CODEBASES!_
 
 ---
-
-## Why?
+### Why?
 Why not?
